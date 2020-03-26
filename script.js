@@ -1,6 +1,6 @@
 let myName = ("Hikmah Abdullateef");
 
-console.log("My name is ${myNmae}.");
+console.log("My name is ${myName}.");
 
 let courses = ["HTML", "CSS", "JS"];
 
